@@ -1,0 +1,19 @@
+{
+  "name": "Kushona-MagicItems",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Kyelin25/Kushona-MagicItems.git",
+  "author": "Ben Ashley <benjamin.p.ashley@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7"
+  }
+}
